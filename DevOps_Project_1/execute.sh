@@ -3,7 +3,7 @@ set -ex
 VERSION=$TAG
 cd ${WORKSPACE}/DevOps_Project_1
 
-export AWS_PROFILE="euran_devops_project"
+export AWS_PROFILE="M4NOJKUM4R"
 
 echo $AWS_PROFILE
 
